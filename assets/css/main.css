@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  h1, h2 {
+    font-weight: bold;
+  }
+  
+  header {
+    background: linear-gradient(45deg, #007bff, #00d4ff);
+  }
+  
